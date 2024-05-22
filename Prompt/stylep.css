@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+#welcomeMessage{
+    color: navy;
+    font-size: 24px;
+    margin-bottom: 0;
+}
+#userName{
+    color: maroon;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
